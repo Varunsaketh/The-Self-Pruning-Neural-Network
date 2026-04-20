@@ -125,4 +125,5 @@ This project demonstrates how neural networks can **learn efficiency during trai
 
 ## 👨‍💻 Author
 
-Your Name
+Varun saketh
+
